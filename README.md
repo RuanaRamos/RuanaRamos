@@ -1,19 +1,25 @@
-# 👋 <span style="color: #FF5733;">Olá, eu sou a Ruana!</span>  
+👋 Hallo, ich bin Ruana!
 
-🌟 Bem-vindo ao meu perfil no GitHub!  
+🌟 Willkommen auf meinem GitHub-Profil!
 
-## Sobre mim  
-- 🎓 Estou atualmente no curso de **<span style="color: #3498DB;">Programação para Iniciantes</span>**, aprendendo e desenvolvendo minhas habilidades em tecnologia.  
-- 💼 Trabalho no **Team de Scrum** da **<span style="color: #28B463;">Media Markt Saturn</span>**, onde participo ativamente no suporte a projetos e no desenvolvimento de soluções colaborativas.  
-- 🌱 Meu objetivo é crescer na área de programação e explorar novas tecnologias para criar projetos inovadores e impactantes.  
+Über mich
 
-## O que estou aprendendo  
-- **Linguagens de programação iniciais:** <span style="color: #F1C40F;">HTML</span>, <span style="color: #E67E22;">CSS</span>, <span style="color: #8E44AD;">JavaScript</span>.  
-- **Metodologias Ágeis:** Scrum.  
-- **Ferramentas de versionamento:** Git e GitHub.  
+🎓 Ich belege aktuell den Kurs Programmieren für Einsteiger und baue meine Tech-Skills Schritt für Schritt aus.
 
-## O que me motiva  
-Adoro colaborar em equipe e resolver problemas de forma criativa. Estou constantemente buscando aprender algo novo e superar desafios! 🚀  
+💼 Ich arbeite im Scrum-Team bei MediaMarktSaturn, unterstütze Projekte und trage zu kollaborativen Lösungen bei.
 
-## Vamos nos conectar!  
-- 💌 Entre em contato comigo: ruanarbarbosa2@icloud.com
+🌱 Mein Ziel: mich als Entwicklerin weiterentwickeln und moderne Technologien für praxisnahe, wirkungsvolle Projekte einsetzen.
+
+Was ich lerne
+
+Programmiersprachen (Grundlagen): Java, HTML, JavaScript
+
+Versionsverwaltung: Git & GitHub
+
+Was mich motiviert
+
+Ich liebe Teamarbeit und kreatives Problemlösen. Lernen gehört für mich täglich dazu – immer neugierig, immer einen Schritt weiter. 🚀
+
+Lass uns vernetzen!
+
+💌 Kontakt: ruanarbarbosa2@icloud.com
