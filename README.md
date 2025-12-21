@@ -1,25 +1,37 @@
-👋 Hallo, ich bin Ruana!
+# Hey! Ich bin Ruana 👋
 
-🌟 Willkommen auf meinem GitHub-Profil!
+- 🎓 Ich studiere **Analyse und Entwicklung von Systemen / Softwareentwicklung**.
+- 📚 Ich lerne Programmieren Schritt für Schritt und baue meine Tech-Skills kontinuierlich aus.
+- 💻 Grundlagen: **Java | HTML | JavaScript**
+- 🔧 Versionskontrolle: **Git | GitHub**
+- 🌱 Ziel: Mich als Entwicklerin weiterzuentwickeln und moderne Technologien für praxisnahe Projekte einzusetzen.
+- 📩 E-Mail (iCloud): **ruanarbarbosa2@icloud.com**
 
-Über mich
+---
 
-🎓 Ich belege aktuell den Kurs Programmieren für Einsteiger und baue meine Tech-Skills Schritt für Schritt aus.
+## Ruana Ramos' GitHub Stats
 
-💼 Ich arbeite im Scrum-Team bei MediaMarktSaturn, unterstütze Projekte und trage zu kollaborativen Lösungen bei.
+![RuanaRamos GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanaRamos&show_icons=true&theme=radical)
 
-🌱 Mein Ziel: mich als Entwicklerin weiterentwickeln und moderne Technologien für praxisnahe, wirkungsvolle Projekte einsetzen.
+## Most Used Languages
 
-Was ich lerne
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanaRamos&layout=compact&theme=radical)
 
-Programmiersprachen (Grundlagen): Java, HTML, JavaScript
+---
 
-Versionsverwaltung: Git & GitHub
+## Tech Stack (Learning)
 
-Was mich motiviert
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</p>
 
-Ich liebe Teamarbeit und kreatives Problemlösen. Lernen gehört für mich täglich dazu – immer neugierig, immer einen Schritt weiter. 🚀
+---
 
-Lass uns vernetzen!
+## Kontakt
 
-💌 Kontakt: ruanarbarbosa2@icloud.com
+[![iCloud Mail](https://img.shields.io/badge/iCloud%20Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:ruanarbarbosa2@icloud.com)
