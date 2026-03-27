@@ -21,7 +21,10 @@ Ich bin eine leidenschaftliche Entwicklerin, die darauf spezialisiert ist, Daten
 
 ### 🌟 Aktuelles Projekt-Highlight
 
-#### [Marketing-Interessengruppen Vorhersage](https://github.com/SEU-BENUTZERNAME/cluster-prediction-app)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cluster-prediction-app-bn3mdncxgzt6a3n5awbtp5.streamlit.app/)
+
+#### [Marketing-Interessengruppen Vorhersage](https://seu-link-do-app.streamlit.app/)
 *KI-Anwendung zur Segmentierung von Zielgruppen mittels K-Means.*
 
 * **Funktion:** Automatisierte Cluster-Analyse von Nutzerverhalten aus CSV-Daten.
