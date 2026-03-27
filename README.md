@@ -15,6 +15,7 @@ Ich bin eine leidenschaftliche Entwicklerin, die darauf spezialisiert ist, Daten
 | **Sprachen** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Web & Automatisierung** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white) |
 | **Infrastruktur** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 ---
 
@@ -31,6 +32,7 @@ Ich bin eine leidenschaftliche Entwicklerin, die darauf spezialisiert ist, Daten
 
 ### 🧠 Woran ich gerade arbeite
 * 🤖 Entwicklung komplexer **ReAct-Agenten** mit **LangGraph** (Zustandsverwaltung & Tool-Calling).
+* ☁️ Vertiefung in **AWS Cloud Foundation** (EC2, S3, Lambda) für skalierbare KI-Lösungen.
 * 📚 **RAG-Systeme** (Retrieval Augmented Generation) zur intelligenten Analyse großer PDF-Dokumente.
 * 🌐 Web-Automatisierung und dynamisches Scraping mit **Selenium**.
 
