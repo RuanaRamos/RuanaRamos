@@ -10,40 +10,41 @@ Ich bin eine leidenschaftliche Entwicklerin, die darauf spezialisiert ist, Daten
 
 | Kategorie | Tools & Frameworks |
 | :--- | :--- |
-| **KI & Agenten** | ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white) |
+| **KI & Agenten** | ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFA800?style=for-the-badge&logo=huggingface&logoColor=white) |
 | **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
 | **Sprachen** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Web & Automatisierung** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white) |
-| **Infrastruktur** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Web & UI** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FFD21E?style=for-the-badge&logo=gradio&logoColor=black) ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white) |
+| **Infrastruktur** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 ---
 
-### 🌟 Aktuelles Projekt-Highlight
+### 🌟 Aktuelle Projekt-Highlights
 
-
+#### [Marketing-Interessengruppen Vorhersage](https://cluster-prediction-app-bn3mdncxgzt6a3n5awbtp5.streamlit.app/)
+*KI-Anwendung zur Segmentierung von Zielgruppen mittels K-Means.*
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cluster-prediction-app-bn3mdncxgzt6a3n5awbtp5.streamlit.app/)
 
-#### [Marketing-Interessengruppen Vorhersage](https://seu-link-do-app.streamlit.app/)
-*KI-Anwendung zur Segmentierung von Zielgruppen mittels K-Means.*
-
-* **Funktion:** Automatisierte Cluster-Analyse von Nutzerverhalten aus CSV-Daten.
 * **Tech:** Python, Streamlit, Scikit-Learn.
 * **Status:** ✅ Live auf Streamlit Cloud.
+
+#### [KI Bild-Hintergrund Entferner](https://huggingface.co/spaces/Ruanaramos/bild-freisteller)
+*KI-Tool zur automatischen Segmentierung und Entfernung von Bildhintergründen.*
+[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/Ruanaramos/bild-freisteller)
+
+* **Tech:** Python, Gradio, Hugging Face Spaces, RMBG-1.4.
+* **Status:** ✅ Live auf Hugging Face.
 
 ---
 
 ### 🧠 Woran ich gerade arbeite
-* 🤖 Entwicklung komplexer **ReAct-Agenten** mit **LangGraph** (Zustandsverwaltung & Tool-Calling).
-* ☁️ Vertiefung in **AWS Cloud Foundation** (EC2, S3, Lambda) für skalierbare KI-Lösungen.
-* 📚 **RAG-Systeme** (Retrieval Augmented Generation) zur intelligenten Analyse großer PDF-Dokumente.
-* 🌐 Web-Automatisierung und dynamisches Scraping mit **Selenium**.
+* 🤖 Entwicklung komplexer **ReAct-Agenten** mit **LangGraph**.
+* ☁️ Vertiefung in **AWS Cloud Foundation** (EC2, S3, Lambda).
+* 📚 **RAG-Systeme** zur intelligenten Analyse von PDF-Dokumenten.
 
 ---
 
 ### 📫 Kontakt
 * 🌍 Standort: **Erfurt, Thüringen, Deutschland**
-* 💼 LinkedIn: www.linkedin.com/in/ruanaramosbarbosa30011991
-* 💬 Sprachen: Portugiesisch (Muttersprache), Deutsch (Fließend) , Englisch (Lernend).
-
----
+* 💼 LinkedIn: [Ruanaramosbarbosa30011991](https://www.linkedin.com/in/ruanaramosbarbosa30011991)
+* 💬 Sprachen: Portugiesisch (Native), Deutsch (Fließend), Englisch (Learning).
