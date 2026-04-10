@@ -21,6 +21,12 @@ Ich bin eine leidenschaftliche Entwicklerin, die darauf spezialisiert ist, Daten
 
 ### 🌟 Aktuelle Projekt-Highlights
 
+### E-Commerce KI-Support Bot
+KI-gestützter Chatbot zur Automatisierung des Kundensupports mittels NLP. [ ![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/Ruanaramos/ecommerce-chatbot-de)
+
+* **Tech:** Python, Gradio, Transformers (DialoGPT), Pandas.
+* **Status:** ✅ Live auf Hugging Face.
+
 #### [Marketing-Interessengruppen Vorhersage](https://cluster-prediction-app-bn3mdncxgzt6a3n5awbtp5.streamlit.app/)
 *KI-Anwendung zur Segmentierung von Zielgruppen mittels K-Means.*
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cluster-prediction-app-bn3mdncxgzt6a3n5awbtp5.streamlit.app/)
