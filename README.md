@@ -27,12 +27,7 @@ KI-gestützter Chatbot zur Automatisierung des Kundensupports mittels NLP. [ ![H
 * **Tech:** Python, Gradio, Transformers (DialoGPT), Pandas.
 * **Status:** ✅ Live auf Hugging Face.
 
-#### [Marketing-Interessengruppen Vorhersage](https://cluster-prediction-app-bn3mdncxgzt6a3n5awbtp5.streamlit.app/)
-*KI-Anwendung zur Segmentierung von Zielgruppen mittels K-Means.*
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cluster-prediction-app-bn3mdncxgzt6a3n5awbtp5.streamlit.app/)
-
-* **Tech:** Python, Streamlit, Scikit-Learn.
-* **Status:** ✅ Live auf Streamlit Cloud.
+### Bildhintergründen Entfernung
 
 #### [KI Bild-Hintergrund Entferner](https://huggingface.co/spaces/Ruanaramos/bild-freisteller)
 *KI-Tool zur automatischen Segmentierung und Entfernung von Bildhintergründen.*
