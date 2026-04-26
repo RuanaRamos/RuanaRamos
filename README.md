@@ -21,6 +21,14 @@ Ich bin eine leidenschaftliche Entwicklerin, die darauf spezialisiert ist, Daten
 
 ### 🌟 Aktuelle Projekt-Highlights
 
+### 🤖 Vielseitige Handhabungslösung (VHaS)
+
+#### [VHaS: KI-Assistent für technische Dokumentation](https://projetovhs-26042026.streamlit.app/)
+
+*KI-gestütztes Tool zur kognitiven Übersetzung und Vereinfachung komplexer Industrie-Handbücher mittels RAG-Technologie.*
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://projetovhs-26042026.streamlit.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/RuanaRamos/Projekte_VHaS)
+
 ### E-Commerce KI-Support Bot
 KI-gestützter Chatbot zur Automatisierung des Kundensupports mittels NLP. [ ![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/Ruanaramos/ecommerce-chatbot-de)
 
