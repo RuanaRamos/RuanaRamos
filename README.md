@@ -1,6 +1,6 @@
 # Hallo, ich bin Ruana Ramos Barbosa! 👋
 
-### 🇧🇷 Brasilianerin in Deutschland | KI-Entwicklerin | Python & Java 
+### 🇧🇷 Brasilianerin in Deutschland | KI-Entwicklerin | Python & Java
 
 Ich bin eine leidenschaftliche Entwicklerin, die darauf spezialisiert ist, Daten in Entscheidungen zu verwandeln und intelligente Agenten zu bauen. Mein aktueller Fokus liegt auf **Generativer KI (LLMs)** und **Data Science**.
 
@@ -10,7 +10,7 @@ Ich bin eine leidenschaftliche Entwicklerin, die darauf spezialisiert ist, Daten
 
 | Kategorie | Tools & Frameworks |
 | :--- | :--- |
-| **KI & Agenten** | ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFA800?style=for-the-badge&logo=huggingface&logoColor=white) |
+| **KI & Agenten** | ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFA800?style=for-the-badge&logo=huggingface&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white) |
 | **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
 | **Sprachen** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Web & UI** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FFD21E?style=for-the-badge&logo=gradio&logoColor=black) ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white) |
@@ -21,19 +21,36 @@ Ich bin eine leidenschaftliche Entwicklerin, die darauf spezialisiert ist, Daten
 
 ### 🌟 Aktuelle Projekt-Highlights
 
-### 🤖 Vielseitige Handhabungslösung (VHaS)
+#### 🎯 [Marketing-Interessengruppen Vorhersage (K-Means)](https://github.com/RuanaRamos/CSV-Extractor-AI) 🆕
 
-#### [VHaS: KI-Assistent für technische Dokumentation](https://projetovhs-26042026.streamlit.app/)
+*Streamlit-Webanwendung mit K-Means Clustering zur Segmentierung von Marketing-Zielgruppen in 3 Interessengruppen.*
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://csv-extractor-ai-080526.streamlit.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/RuanaRamos/CSV-Extractor-AI)
+[![Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-8A2BE2?style=flat&logo=anthropic&logoColor=white)](https://claude.com/claude-code)
+
+* **Tech:** Python, Streamlit, Scikit-Learn (K-Means), Pandas, Joblib.
+* **Status:** ✅ Live auf Streamlit Community Cloud.
+* 💡 Mein erstes Projekt, das mit **Claude Code** entwickelt wurde.
+
+---
+
+#### 🤖 [VHaS: KI-Assistent für technische Dokumentation](https://projetovhs-26042026.streamlit.app/)
 
 *KI-gestütztes Tool zur kognitiven Übersetzung und Vereinfachung komplexer Industrie-Handbücher mittels RAG-Technologie.*
+
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://projetovhs-26042026.streamlit.app/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/RuanaRamos/Projekte_VHaS)
 
+* **Tech:** Python, Streamlit, RAG, LangChain.
+* **Status:** ✅ Live auf Streamlit Community Cloud.
 
-### Bildhintergründen Entfernung
+---
 
-#### [KI Bild-Hintergrund Entferner](https://huggingface.co/spaces/Ruanaramos/bild-freisteller)
+#### 🖼️ [KI Bild-Hintergrund Entferner](https://huggingface.co/spaces/Ruanaramos/bild-freisteller)
+
 *KI-Tool zur automatischen Segmentierung und Entfernung von Bildhintergründen.*
+
 [![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/Ruanaramos/bild-freisteller)
 
 * **Tech:** Python, Gradio, Hugging Face Spaces, RMBG-1.4.
@@ -42,6 +59,7 @@ Ich bin eine leidenschaftliche Entwicklerin, die darauf spezialisiert ist, Daten
 ---
 
 ### 🧠 Woran ich gerade arbeite
+
 * 🤖 Entwicklung komplexer **ReAct-Agenten** mit **LangGraph**.
 * ☁️ Vertiefung in **AWS Cloud Foundation** (EC2, S3, Lambda).
 * 📚 **RAG-Systeme** zur intelligenten Analyse von PDF-Dokumenten.
@@ -49,6 +67,9 @@ Ich bin eine leidenschaftliche Entwicklerin, die darauf spezialisiert ist, Daten
 ---
 
 ### 📫 Kontakt
+
 * 🌍 Standort: **Erfurt, Thüringen, Deutschland**
 * 💼 LinkedIn: [Ruanaramosbarbosa30011991](https://www.linkedin.com/in/ruanaramosbarbosa30011991)
 * 💬 Sprachen: Portugiesisch (Native), Deutsch (Fließend), Englisch (Learning).
+
+---
